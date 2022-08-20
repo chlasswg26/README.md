@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/chlasswg26?tab=repositories](https://github.com/chlasswg26?tab=repositories)
 
-- 💬 Ask me about **anything 'bout MERN & PERN or else**
+- 💬 Ask me **anything 'bout MERN & PERN or else**
 
 - 📫 How to reach me **ichlaswardy26@gmail.com**
 
