@@ -5,12 +5,13 @@
 [![](https://visitcount.itsvg.in/api?id=chlasswg26&icon=4&color=9)](https://visitcount.itsvg.in)
 
 ## 💫 Litle Bit More About Me
-<p>🌱 I'm currently learning PostgreSQL, ExpressJS, ReactJS, NodeJS</p>
-<p>💬 Ask me about MERN, PERN, and DevOps</p>
-<p>📫 How to reach me? ichlaswardy26@gmail.com</p>
+<p>🔭 I'm currently working on <b>Home</b></p>
+<p>🌱 I'm currently learning <b>PostgreSQL, ExpressJS, ReactJS, NodeJS</b></p>
+<p>💬 Ask me about <b>MERN, PERN, and DevOps</b></p>
+<p>📫 How to reach me? <b>ichlaswardy26@gmail.com</b></p>
 <p>🤖 All of my projects are available at <a href="https://github.com/chlasswg26?tab=repositories">GitHub</a></p>
 <p>😄 Know about my experiences <a href="https://linkedin.com/in/ichlas-wardy">here</a></p>
-<p>⚡ Fun Fact: I hate task, but love solving bugs on people codes based on my experiences</p>
+<p>⚡ Fun Fact: <b>I hate task, but love solving bugs on people codes based on my experiences</b></p>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/jr.woles) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ichlaswardy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ichlas-wardy) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Spirited_Entrance930) 
